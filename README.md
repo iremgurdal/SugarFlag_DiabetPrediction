@@ -1,3 +1,6 @@
+### 📁 Proje Sunumu
+Projenin diğer koduna (https://drive.google.com/file/d/1cH6PGW-7dS4X8kN9NJxmZ3uDYPqv_7uI/view?usp=sharing) ulaşabilirsiniz.
+
 SugarFlag: Bireysel Göstergeler ile Diyabet Tahmin Modeli
 SugarFlag, bireylerin sağlık göstergelerini kullanarak diyabet riskini tahmin eden gelişmiş bir makine öğrenimi projesidir. Özellikle dengesiz veri setleriyle başa çıkmak için tasarlanmış yenilikçi yaklaşımlar (meta-öğrenme, sınıf ağırlıkları) ile yüksek performans hedeflenmiştir.
 
